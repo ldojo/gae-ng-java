@@ -7,10 +7,10 @@ The AngularJS code comes from https://github.com/ldojo/angular-seed
 
 To setup,
 
-...
+```
 $ cd Gae-ng-java/war/angular-seed/
 $ npm install
-...
+```
 
 Run the project in Eclipse as you would a regular GAE project.
 
